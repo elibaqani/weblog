@@ -13,15 +13,13 @@ The "Create Blog with Django Rest Framework" project is a web application that a
 - User Registration and Authentication: Users can register, login, and manage their account.
 - Blog Post CRUD Operations: Users can create, read, update, and delete blog posts.
 - Commenting System: Users can comment on blog posts.
-- Tagging System: Blog posts can be tagged with relevant keywords for easier categorization and searching.
-- API Documentation: Detailed API documentation is available to help developers integrate and work with the API.
 
 ## Installation
 
 Follow these steps to set up the project:
 
-1. Clone or download the repository: `git clone https://github.com/your-username/create-blog-django-rest.git`
-2. Navigate to the project directory: `cd create-blog-django-rest`
+1. Clone or download the repository: `git clone https://github.com/elibaqani/weblog.git`
+2. Navigate to the project directory: `cd weblog`
 3. Create a virtual environment: `python3 -m venv env`
 4. Activate the virtual environment:
    - For Windows: `env\Scripts\activate.bat`
@@ -34,7 +32,7 @@ Follow these steps to set up the project:
 
 ## API Documentation
 
-The API documentation is available at `/api/docs/` when the application is running. It provides detailed information about the available endpoints, request/response formats, and authentication requirements.
+The API documentation is available at `/api` when the application is running. It provides detailed information about the available endpoints, request/response formats, and authentication requirements.
 
 ## Contributing
 
