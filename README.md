@@ -33,26 +33,3 @@ Follow these steps to set up the project:
 ## API Documentation
 
 The API documentation is available at `/api` when the application is running. It provides detailed information about the available endpoints, request/response formats, and authentication requirements.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch: `git checkout -b my-new-feature`
-3. Make your modifications and commit changes: `git commit -am 'Add some feature'`
-4. Push to the branch: `git push origin my-new-feature`
-5. Submit a Pull Request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-We would like to express our gratitude to the open-source community and the developers who have contributed to the tools and libraries used in this project.
-
----
-
-Thank you for showing interest in the "Create Blog with Django Rest Framework" project! Please feel free to reach out if you have any questions or need further assistance. Happy blogging! 🚀✨
-
